@@ -607,3 +607,21 @@ body{
 .medium-zoom-image--opened{
     z-index:7;
 }
+.video0{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    padding: 43px 0px;
+    color: #000;
+}
+.Titulo{
+    font-size: 4rem;
+}
+.Ficha{
+    color: #000;
+    font-size: large;
+}
+.service-iten h3 span{
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
