@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="es/es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>INDSERTEC</title>
+  <link rel="stylesheet" href="estilos.css">
+  <link rel="stylesheet" href="fonts.css">
+  <link rel="shortcut icon" href="img/Logo-AH-cinta1.png">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,300|Raleway:300,400,900,700italic,700,300,600">
+  <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css">
+  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="social">
+	   <ul>
+	     <li><a href="mailto:bastyyy678@aol.com" class="icon-mail"></a></li>
+	   	 <li><a href="https://www.facebook.com/Indsertec-106294418418483" target="_blanck" class="icon-facebook"></a></li>
+	   	 <li><a href="https://www.instagram.com/" target="_blanck" class="icon-instagram"></a></li>
+	   	 <li><a href="https://www.whatsapp.com/" target="_blanck" class="icon-whatsapp"></a></li>
+	   </ul>
+	</div>
+  <div class="loader"></div>
+  <div id="myDiv">
+    <!--HEADER-->
+    <div class="header">
+      <div class="bg-color">
+        <header id="main-header">
+          <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a href="INDSERTEC.html">
+                <img src="img/Logo-AH-cinta1.png" alt="csl-logo" width="100" height="80">
+              </a>
+              </div>
+              <!-- Menu -->
+              <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                  <li class="active"><a href="#main-header">Inicio</a></li>
+                  <li class=""><a href="#Productos">Productos</a></li>
+                  <li class=""><a href="#contactenos">Contacto</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </header>
+        <div class="wrapper">
+          <div class="container">
+            <div class="row">
+              <div class="banner-info text-center wow fadeIn delay-05s">
+                <h2 class="bnr-sub-title">INDSERTEC</h2>
+                <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+                <p class="bnr-para">Servicios Industriales<br>Renovamos tus techumbre y estructuras<br>con la mejor calidad y tecnología en revestimientos.</p>
+                <link href="https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap" rel="stylesheet">
+                </div>
+                <div class="overlay-detail">
+                  <a href="#Productos"><i class="fa fa-angle-down"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Productos ---->
+    <section id="Productos" class="section-padding wow fadeInUp delay-05s"><p></p></p>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">Productos</h2>
+            <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+            <p class="sub-title pad-bt15"></p>
+            <hr class="bottom-line">
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="service-itemmm">
+              <h3><span>SI-COAT® 460RC™</span></h3>
+              <img class="img-sicoat" src="img/SICOAT.png" width="164" height="255"/>
+              <p></p>
+              <a href=""></a>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="service-iten">
+              <h3><span></span></h3>
+              <p>Ficha tecnica de SI-COAT® 460RC™</p>
+              <a href="pdf/ficha Tecnica si-coat_460RC.pdf" target="_blanck">Haga Click Aqui</a>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="service-item">
+              <h3><span></span></h3>
+              <p></p>
+              <a href="" target="_blanck"></a>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="service-item">
+              <h3><span></span></h3>
+              <p></p>
+              <a href="" target="_blanck"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Contacto -->
+    <section id="contactenos" class="section-padding wow fadeInUp delay-05s">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center white">
+            <h2 class="Contacto pad-bt15">MANTENTE EN CONTACTO CON NOSOTROS</h2>
+            <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@1,700&display=swap" rel="stylesheet">
+            <p class="sub-title pad-bt15"></p>
+            <hr class="bottom-line white-bg">
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="loction-info white">
+              <p><i class="fa fa-map-marker fa-fw pull-left fa-2x"></i>Linares, san diego<br>Huepil, Tucapel</p>
+              <p><i class="fa fa-envelope-o fa-fw pull-left fa-2x"></i>info@IndSerTec.cl</p>
+              <p><i class="fa fa-phone fa-fw pull-left fa-2x"></i>+56 9 1234 5678</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="contact-form">
+              <div id="sendmessage">Tu mensaje ha sido enviado. ¡Gracias!</div>
+              <div id="errormessage"></div>
+              <form action="" method="post" role="form" class="contactform/contactform.js">
+                <div class="col-md-6 padding-right-zero">
+                  <div class="form-group">
+                    <input type="text" name="nombre" class="form-control" id="nombre" placeholder="TU NOMBRE" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                    <div class="validation"></div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="email" class="form-control" name="gmail" id="email" placeholder="CORREO ELECTRONICO" data-rule="email" data-msg="Please enter a valid email" />
+                    <div class="validation"></div>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <input type="text" class="form-control" name="asunto" id="asunto" placeholder="ASUNTO" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                    <div class="validation"></div>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea class="form-control" name="mensaje"  id="mensaje" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="MENSAJE"></textarea>
+                    <div class="validation"></div>
+                  </div>
+                  <button type="submit" class="btn btn-primary btn-submit">ENVIAR AHORA</button>
+                </div>
+              </form>
+              <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!---->
+    <footer id="footer">
+      <div class="container">
+        <div class="row text-center">
+          <p><a class="INDSERTEC" href="INDSERTEC.html" target="">INDSERTEC</a> © 2021. Todos Los Derechos Reservados.</p>
+        </div>
+      </div>
+    </footer>
+    <!---->
+    <!-- Código de instalación Cliengo para www.indsertec.cl --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/611c580f573407002ae104c6/611c58ece76f52002ac7e888.js?platform=onboarding_modular'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+  </div>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/wow.js"></script>
+  <script src="js/jquery.bxslider.min.js"></script>
+  <script src="js/custom.js"></script>
+  <script src="contactform/contactform.js"></script>
+</body>
+</html> 
