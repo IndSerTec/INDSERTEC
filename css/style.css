@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6{
 .section-padding
 {
     padding: 60px 0px;
+    background-color: rgba(27,129,112);
 }
 #loader {
   position: absolute;
@@ -82,7 +83,7 @@ HEADER
 ************************************
 ***********************************/
 .header{
-    background: url('../img/Fondo/1.jpg') no-repeat center center fixed;
+    background: url('../img/Fondo/2.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -93,14 +94,19 @@ HEADER
 }
 .bg-color
 {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0);
     min-height: 650px;
 }
 .navbar-default {
-    background-color: rgba(131,175,96, 0.9);
+    background-color: rgba(27,129,112, 0.5);
     border:0px;
     padding: 1px 0; 
     transition: all 0,4s;
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover
@@ -111,7 +117,11 @@ HEADER
 .top-nav-collapse {
     position: fixed;
     padding: 0; 
-    background: rgba(154, 209, 110, 0.9);
+    background: rgba(27,129,112, 0.5);
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .navbar-default .navbar-brand {
     color: #ffffff;
@@ -132,16 +142,16 @@ HEADER
 .navbar-default .navbar-nav > li > a
 {
     padding: 5px 10px;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 54px;
     font-weight: 400;
     text-transform: uppercase;
-    color: #000;
+    color: rgb(255, 255, 255);
     -webkit-transition: color 0.2s ease-out;
     transition: color 0.2s ease-out;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #000;
+    color: rgb(255, 255, 255);
     background-color: transparent;
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
@@ -196,6 +206,7 @@ Producto e Contacto
     font-family: 'Family';
     font-size: 40px;
     text-transform: uppercase;
+    color: #FFF;
     src: url('fonts/LibreBaskerville-Bold.ttf');
 }
 .Contacto {
@@ -221,7 +232,7 @@ Producto e Contacto
     border-top: 0px;
     height: 3px;
     width: 40px;
-    background-color: #000;
+    background-color: #fff;
 }
 .wrap-item h3 {
     font-size: 24px;
@@ -237,18 +248,18 @@ Producto e Contacto
 .sec-sub-title {
     font-size: 16px;
     font-weight: bold;
-    color: #002F2F;
+    color: rgba(27,129,112);
     text-transform: uppercase;
     margin: 25px 0px;
     line-height: 1.7;
 }
 #productos
 {
-    background-color: #000000;
+    background-color: rgba(27,129,112);
 }
 ul.service-list li i
 {
-    color: #002F2F;
+    color: rgba(27,129,112);
     padding-right: 10px;
 }
 .learn-more, .learn-more:hover, .learn-more:focus {
@@ -364,7 +375,11 @@ contacto
 ***********************************/
 #contactenos
 {
-    background-color: rgb(54, 73, 107);
+    background-color: rgba(27,129,112);;
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .btn-submit, .btn-submit:hover, .btn-submit:focus
 {
@@ -583,6 +598,7 @@ body{
 {
     padding: 50px 0px;
     font-size: 20px;
+    color: #fff;
 }
 /* Haga click aqui*/
 .service-iten a
@@ -594,15 +610,24 @@ body{
 .service-itemmm h3
 {
     font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
 }
 /* Derechos reservados */
 #footer .INDSERTEC
 {
-    color: #000;
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .container
 {
-    color: #000;
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .medium-zoom-image--opened{
     z-index:7;
@@ -623,5 +648,17 @@ body{
 .service-iten h3 span{
     font-size: 3rem;
     font-family: Arial, Helvetica, sans-serif;
-    color: #000;
+    color: rgb(255, 255, 255);
+}
+.service-iten a{ 
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+#myNavbar
+{
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
