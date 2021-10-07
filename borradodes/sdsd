@@ -188,3 +188,13 @@
   <script src="contactform/contactform.js"></script>
 </body>
 </html> 
+
+
+
+
+<div>
+  <header>
+    <H1 class="mapa">Ubicación en mapa</H1>
+    <iframe class="mapa1" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d656.5513686407542!2d-71.95289217079502!3d-37.24151193109882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2scl!4v1633558000945!5m2!1ses-419!2scl" width="400" height="300" allowfullscreen="" loading="lazy"></iframe>
+  </header>
+</div>

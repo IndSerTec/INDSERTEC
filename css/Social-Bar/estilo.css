@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.social{
+    position: fixed;
+    left: 0;
+    top: 200px;
+    z-index: 2000;
+
+}
+
+.social ul{
+    list-style: none;
+}
+
+.social ul li a{
+    display: inline-block;
+    color: #fff;
+    background: #000;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.social ul li .icon-mail {background: #B1B1B1;}
+.social ul li .icon-facebook {background: #1A71E6;}
+.social ul li .icon-phone {background: #273B8A;}
+.social ul li .icon-instagram {background: #ED4957;}
+
+.social ul li a:hover {
+    padding: 10px 30px;
+}
